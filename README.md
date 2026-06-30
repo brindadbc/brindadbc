@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Brinda Carelle DJUIKOUO</h1>
+<h3 align="center"> Développeuse Web & Mobile</h3>
 
-<!--
-**brindadbc/brindadbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionnée par le développement web et mobile, je construis des applications avec PHP/Laravel,
+  le MERN Stack et Flutter — sérieuse, curieuse et déterminée à grandir à travers des projets innovants.
+</p>
 
-Here are some ideas to get you started:
+- 🚀 Je travaille actuellement sur **Depan Rapide**, une application mobile de dépannage à domicile (Flutter, géolocalisation, paiement intégré)
+- 🌱 Je continue à approfondir **React.js**, **Laravel** et **Flutter**
+- 💬 Demandez-moi à propos de **Développement Web & Mobile, MERN Stack, PHP/Laravel**
+- 📫 Comment me joindre : **brinda25042007@gmail.com**
+- 🌐 Portfolio : [my-portfolio-brinda-1.onrender.com](https://my-portfolio-brinda-1.onrender.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/brinda-carelle" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:brinda25042007@gmail.com" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brindadbc&show_icons=true&theme=tokyonight&hide_border=true" alt="brindadbc" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brindadbc&theme=tokyonight&hide_border=true" alt="brindadbc" width="48%" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brindadbc&layout=compact&theme=tokyonight&hide_border=true" alt="brindadbc" width="50%" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=brindadbc&theme=tokyonight&no-frame=true&row=1&column=6" alt="brindadbc trophies" />
+</p>
+
+---
+
+### 💼 Projets récents
+
+**[Depan Rapide](https://github.com/brindadbc)** — Application mobile de dépannage à domicile  
+`Flutter` `Dart` `API REST` `Géolocalisation`
+
+**Portail d'Emploi (MERN Stack)** — Plateforme candidat/recruteur avec matching automatique CV/Offres  
+`React.js` `Node.js` `MongoDB` `Express.js`
+
+---
+
+<p align="center"><i>Merci de visiter mon profil ! N'hésitez pas à explorer mes dépôts et à me contacter 🚀</i></p>
